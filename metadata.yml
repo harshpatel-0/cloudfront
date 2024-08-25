@@ -1,0 +1,12 @@
+---
+:id: 243759848
+:submitters:
+- :name: Harsh Patel
+  :email: harsh.n.patel@uconn.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-04-03 17:06:11.274667000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-04-03 10:06:11.274667000 Z
+:status: processed
+:score: 115.0
